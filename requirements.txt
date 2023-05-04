@@ -1,3 +1,2 @@
 #requirement.txt
 python-connector-python
-cffi==1.15.0
