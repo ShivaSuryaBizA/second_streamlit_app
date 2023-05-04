@@ -1,3 +1,1 @@
-import streamlit
-
-streamlit.title('My Second file')
+import snowflake.connector
